@@ -1,0 +1,32 @@
+/Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/objs/libawt_lwawt/ApplicationDelegate.o: \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/ApplicationDelegate.m \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/ApplicationDelegate.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/com_apple_eawt_Application.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/javavm/export/jni_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/com_apple_eawt__AppDockIconHandler.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/com_apple_eawt__AppEventHandler.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/com_apple_eawt__AppMenuBarHandler.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/com_apple_eawt__AppMiscHandlers.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JavaNativeFoundation.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFJNI.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFException.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFAutoreleasePool.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFObject.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFJObjectWrapper.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFString.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFNumber.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFDate.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFPath.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFTypeCoercion.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFThread.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFRunnable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFRunLoop.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFAssert.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/CPopupMenu.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/CMenu.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/CMenuItem.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/CMenuComponent.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/osxapp/ThreadUtilities.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/osxapp/AWT_debug.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/osxapp/NSApplicationAWT.h

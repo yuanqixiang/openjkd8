@@ -1,0 +1,29 @@
+/Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/objs/libfontmanager/freetypeScaler.o: \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/font/freetypeScaler.c \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/javavm/export/jni_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/jni_util.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/jlong.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/common/jlong_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/font/sunfontids.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/sun_font_FreetypeFontScaler.h \
+  /usr/local/include/freetype2/ft2build.h \
+  /usr/local/include/freetype2/freetype/config/ftheader.h \
+  /usr/local/include/freetype2/freetype/freetype.h \
+  /usr/local/include/freetype2/freetype/config/ftconfig.h \
+  /usr/local/include/freetype2/freetype/config/ftoption.h \
+  /usr/local/include/freetype2/freetype/config/ftstdlib.h \
+  /usr/local/include/freetype2/freetype/fttypes.h \
+  /usr/local/include/freetype2/freetype/ftsystem.h \
+  /usr/local/include/freetype2/freetype/ftimage.h \
+  /usr/local/include/freetype2/freetype/fterrors.h \
+  /usr/local/include/freetype2/freetype/ftmoderr.h \
+  /usr/local/include/freetype2/freetype/fterrdef.h \
+  /usr/local/include/freetype2/freetype/ftglyph.h \
+  /usr/local/include/freetype2/freetype/ftbbox.h \
+  /usr/local/include/freetype2/freetype/ftsizes.h \
+  /usr/local/include/freetype2/freetype/ftoutln.h \
+  /usr/local/include/freetype2/freetype/ftsynth.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/font/fontscaler.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/font/fontscalerdefs.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/font/AccelGlyphCache.h

@@ -1,0 +1,3 @@
+/Users/yuanqixiang/Downloads/openjdk8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yuanqixiang/Downloads/openjdk8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yuanqixiang/Downloads/openjdk8/cmake-build-debug/CMakeFiles/openjdk8.dir

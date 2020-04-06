@@ -1,0 +1,29 @@
+## Starting langtools
+## Finished langtools (build time 00:00:01)
+
+## Starting hotspot
+## Finished hotspot (build time 00:00:00)
+
+## Starting corba
+## Finished corba (build time 00:00:00)
+
+## Starting jaxp
+## Finished jaxp (build time 00:00:00)
+
+## Starting jaxws
+## Finished jaxws (build time 00:00:00)
+
+## Starting jdk
+## Finished jdk (build time 00:00:02)
+
+----- Build times -------
+Start 2020-04-06 20:48:14
+End   2020-04-06 20:48:18
+00:00:00 corba
+00:00:00 hotspot
+00:00:00 jaxp
+00:00:00 jaxws
+00:00:02 jdk
+00:00:01 langtools
+00:00:04 TOTAL
+-------------------------

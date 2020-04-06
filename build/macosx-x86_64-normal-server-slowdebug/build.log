@@ -1,0 +1,70 @@
+## Starting langtools
+## Finished langtools (build time 00:00:01)
+
+## Starting hotspot
+make[2]: warning: -jN forced in submake: disabling jobserver mode.
+INFO: ENABLE_FULL_DEBUG_SYMBOLS=1
+INFO: ENABLE_FULL_DEBUG_SYMBOLS=1
+Rescanned ../generated/adfiles/bsd_x86_64.ad  but encountered no changes.
+dtrace headers generated
+Compiling /Users/yuanqixiang/Downloads/openjdk8/hotspot/src/os/bsd/vm/os_bsd.cpp
+Compiling /Users/yuanqixiang/Downloads/openjdk8/hotspot/src/share/vm/runtime/vm_version.cpp
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+no symbols
+Linking vm...
+clang: warning: argument unused during compilation: '-Xlinker -lstdc++' [-Wunused-command-line-argument]
+Doing vm.make build:
+All done.
+INFO: ENABLE_FULL_DEBUG_SYMBOLS=1
+No compiler1 (debug1) for ARCH_DATA_MODEL=64
+INFO: ENABLE_FULL_DEBUG_SYMBOLS=1
+INFO: ENABLE_FULL_DEBUG_SYMBOLS=1
+INFO: ENABLE_FULL_DEBUG_SYMBOLS=1
+## Finished hotspot (build time 00:00:18)
+
+## Starting corba
+## Finished corba (build time 00:00:00)
+
+## Starting jaxp
+## Finished jaxp (build time 00:00:01)
+
+## Starting jaxws
+## Finished jaxws (build time 00:00:00)
+
+## Starting jdk
+## Finished jdk (build time 00:00:03)
+
+----- Build times -------
+Start 2020-04-06 20:49:30
+End   2020-04-06 20:49:53
+00:00:00 corba
+00:00:18 hotspot
+00:00:01 jaxp
+00:00:00 jaxws
+00:00:03 jdk
+00:00:01 langtools
+00:00:23 TOTAL
+-------------------------

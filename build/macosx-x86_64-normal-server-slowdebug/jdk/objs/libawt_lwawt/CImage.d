@@ -1,0 +1,26 @@
+/Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/objs/libawt_lwawt/CImage.o: \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/CImage.m \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/jni_util.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/javavm/export/jni_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/jlong.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/common/jlong_md.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JavaNativeFoundation.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFJNI.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFException.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFAutoreleasePool.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFObject.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFJObjectWrapper.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFString.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFNumber.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFDate.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFPath.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFTypeCoercion.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFThread.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFRunnable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFRunLoop.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFAssert.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/GeomUtilities.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/osxapp/ThreadUtilities.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/osxapp/AWT_debug.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/sun_lwawt_macosx_CImage.h

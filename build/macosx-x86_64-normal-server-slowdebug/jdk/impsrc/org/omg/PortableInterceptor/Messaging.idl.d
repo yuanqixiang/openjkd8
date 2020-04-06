@@ -1,0 +1,2 @@
+/Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/corba/gensrc/org/omg/Messaging/SYNC_WITH_TRANSPORT.java: /Users/yuanqixiang/Downloads/openjdk8/corba/src/share/classes/org/omg/PortableInterceptor/Messaging.idl
+/Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/corba/gensrc/org/omg/Messaging/SyncScopeHelper.java: /Users/yuanqixiang/Downloads/openjdk8/corba/src/share/classes/org/omg/PortableInterceptor/Messaging.idl

@@ -1,0 +1,24 @@
+/Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/objs/libsplashscreen/splashscreen_sys.o: \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/splashscreen/splashscreen_sys.m \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/splashscreen/splashscreen_impl.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/awt/splashscreen/splashscreen_config.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/splashscreen/splashscreen_gfx.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JavaNativeFoundation.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFJNI.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFException.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFAutoreleasePool.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFObject.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFJObjectWrapper.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFString.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFNumber.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFDate.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFPath.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFTypeCoercion.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFThread.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFRunnable.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFRunLoop.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaNativeFoundation.framework/Headers/JNFAssert.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/osxapp/NSApplicationAWT.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/sizecalc.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/osxapp/ThreadUtilities.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/native/sun/osxapp/AWT_debug.h

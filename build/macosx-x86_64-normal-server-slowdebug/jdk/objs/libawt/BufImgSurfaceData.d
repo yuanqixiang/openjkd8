@@ -1,0 +1,25 @@
+/Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/objs/libawt/BufImgSurfaceData.o: \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/image/BufImgSurfaceData.c \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/image/BufImgSurfaceData.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/java2d/SurfaceData.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/javavm/export/jni_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/sun/awt/colordata.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/image/cvutils/img_globals.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/sun_awt_image_BufImgSurfaceData.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/sun/awt/img_util_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/sun/awt/color.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/sun/awt/awt.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/javavm/export/jvm.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/javavm/export/jni.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/javavm/export/jvm_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/javavm/export/classfile_constants.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/jni_util.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/jlong.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/common/jlong_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/debug/debug_util.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/debug/debug_mem.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/debug/debug_assert.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/debug/debug_trace.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/gdefs.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/common/gdefs_md.h

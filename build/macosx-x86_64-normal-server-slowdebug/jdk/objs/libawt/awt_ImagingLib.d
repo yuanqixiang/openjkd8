@@ -1,0 +1,27 @@
+/Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/objs/libawt/awt_ImagingLib.o: \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/medialib/awt_ImagingLib.c \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/sun_awt_image_ImagingLib.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/javavm/export/jni_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_Transparency.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_image_AffineTransformOp.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_image_BufferedImage.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_color_ColorSpace.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/java_awt_image_ConvolveOp.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/gensrc_headers/sun_awt_image_IntegerComponentRaster.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/medialib/awt_ImagingLib.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/medialib/mlib_types.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/medialib/mlib_status.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/medialib/mlib_image_types.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/medialib/mlib_image_get.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/image/awt_parseImage.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/jni_util.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/jlong.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/common/jlong_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/image/imageInitIDs.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/sun/awt/awt_Mlib.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/common/gdefs.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/common/gdefs_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/medialib/safe_alloc.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/native/sun/java2d/j2d_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/native/sun/awt/medialib/safe_math.h

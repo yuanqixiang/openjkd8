@@ -1,0 +1,37 @@
+/Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/demoobjs/jvmti/hprof/hprof_md.o: \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/demo/jvmti/hprof/hprof_md.c \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/include/jni.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/javavm/export/jni_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/macosx/javavm/export/jvm_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/include/jvmti.h \
+  /Users/yuanqixiang/Downloads/openjdk8/build/macosx-x86_64-normal-server-slowdebug/jdk/include/classfile_constants.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/npt/npt.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/npt/npt_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/npt/utf.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/solaris/npt/utf_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_md.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_error.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_util.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/debug_malloc.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_blocks.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_stack.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_init.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_table.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_string.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_class.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_tracker.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_frame.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_monitor.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_trace.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_site.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_event.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_reference.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_object.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_loader.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_tls.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_check.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_io.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_listener.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_cpu.h \
+  /Users/yuanqixiang/Downloads/openjdk8/jdk/src/share/demo/jvmti/hprof/hprof_tag.h

@@ -1,0 +1,1 @@
+--with-target-bits=64 --with-debug-level=slowdebug --enable-debug-symbols ZIP_DEBUGINFO_FILES=0 --with-freetype-include=/usr/local/include/freetype2 --with-freetype-lib=/usr/local/lib/ --enable-ccache
